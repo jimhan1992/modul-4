@@ -1,0 +1,7 @@
+{
+  "name": "th-kt-s-n-to",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
+}
